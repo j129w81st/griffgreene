@@ -1,0 +1,677 @@
+{
+    "menu": {
+        "Monday": {
+            "Breakfast": "Greek Yogurt Berry Parfait",
+            "Lunch": "Turkey & Avocado Whole Grain Wrap",
+            "Dinner": "Chicken Fajita Bowl"
+        },
+        "Tuesday": {
+            "Breakfast": "Peanut Butter Banana Overnight Oats",
+            "Lunch": "Leftover Chicken Fajita Salad",
+            "Dinner": "Shrimp & Broccoli Stir-Fry with Brown Rice"
+        },
+        "Wednesday": {
+            "Breakfast": "Green Protein Smoothie",
+            "Lunch": "Tuna Salad Sandwich on Whole Grain",
+            "Dinner": "Turkey & Bean Chili"
+        },
+        "Thursday": {
+            "Breakfast": "Avocado Toast with Egg",
+            "Lunch": "Leftover Turkey Chili",
+            "Dinner": "Black Bean & Corn Stuffed Sweet Potato"
+        },
+        "Friday": {
+            "Breakfast": "Spinach & Tomato Scrambled Eggs with Toast",
+            "Lunch": "Black Bean & Corn Salad",
+            "Dinner": "Herb-Crusted Baked Fish with Broccoli & Tomatoes"
+        },
+        "Saturday": {
+            "Breakfast": "Banana Oat Pancakes",
+            "Lunch": "Turkey & Veggie Salad",
+            "Dinner": "Slow Cooker Chicken Cacciatore"
+        },
+        "Sunday": {
+            "Breakfast": "Breakfast Burrito with Eggs & Salsa",
+            "Lunch": "Leftover Chicken Cacciatore",
+            "Dinner": "Vegetable Frittata"
+        }
+    },
+
+    "shopping_list": {
+        "Produce": [
+            "Spinach: 1 bag (5 oz fresh)",
+            "Romaine lettuce: 1 head",
+            "Bell peppers: 4 medium (mixed colors)",
+            "Onions: 3 medium",
+            "Garlic: 1 bulb",
+            "Sweet potatoes: 2 medium",
+            "Broccoli: 1 head",
+            "Cherry tomatoes: 1 pint",
+            "Avocados: 2 medium",
+            "Bananas: 3",
+            "Berries (your choice): ~1 pint",
+            "Limes: 2",
+            "Lemon: 1",
+            "Mushrooms: 8 oz",
+            "Fresh cilantro: 1 small bunch",
+            "Fresh ginger: 1 knob (~2 inches)",
+            "Frozen corn kernels: 1 bag (10 oz)"
+        ],
+        "Dairy": [
+            "Greek yogurt (plain, low-fat): 1 tub (16 oz)",
+            "Milk (or unsweetened almond milk): 1 quart",
+            "Eggs: 1 dozen",
+            "Cheddar cheese, shredded (reduced-fat if possible): 1 package (8 oz)"
+        ],
+        "Protein": [
+            "Chicken breast: ~1.5 lb (about 3 pieces)",
+            "Lean ground turkey: 1 lb",
+            "Shrimp, peeled & deveined: ~0.5 lb",
+            "White fish fillets (cod, tilapia, etc.): ~0.5 lb",
+            "Deli turkey (sliced, lean): ~6 oz",
+            "Canned tuna (in water): 1 can (5 oz)",
+            "Black beans, canned: 2 cans (15 oz each)"
+        ],
+        "Grains": [
+            "Whole wheat tortillas: 1 package (8-10 count)",
+            "Whole grain bread: 1 loaf",
+            "Brown rice (uncooked): ~1 lb (about 2 cups dry)",
+            "Rolled oats: 1 container (approx. 18 oz)",
+            "Granola (low-sugar): ~1 cup (for topping parfait)"
+        ],
+        "Spices/Herbs": [
+            "Chili powder: 1 jar",
+            "Ground cumin: 1 jar",
+            "Italian seasoning (herb blend): 1 jar",
+            "Ground cinnamon: 1 jar",
+            "Salt & black pepper: to taste (if not on hand)"
+        ],
+        "Other": [
+            "Olive oil: 1 bottle",
+            "Low-sodium soy sauce: 1 small bottle",
+            "Vinegar (balsamic or apple cider): 1 bottle",
+            "Dijon or yellow mustard: 1 small jar",
+            "Baking powder: 1 small can",
+            "Peanut butter: 1 jar",
+            "Salsa (jarred, low-sugar): 1 jar",
+            "Diced tomatoes, canned: 2 cans (14-15 oz each)"
+        ]
+    },
+
+    "daily_notes": {
+        "Monday": {
+            "Breakfast": {
+                "title": "Greek Yogurt Berry Parfait",
+                "prep_tips": [
+                    "Use Greek yogurt for a protein-packed base (more filling than regular yogurt).",
+                    "Choose a low-sugar granola or nuts for crunch to keep it weight-loss friendly.",
+                    "Pre-wash fresh berries or use frozen ones (thawed) to save time in the morning."
+                ],
+                "get_ahead": [
+                    "Assemble the parfait in a jar the night before and refrigerate it – then just grab-and-go in the morning."
+                ],
+                "quick_substitutions": [
+                    "If fresh berries aren’t on hand, use frozen berries (let them thaw overnight in the fridge).",
+                    "No granola? Substitute with a sprinkle of oats or chopped nuts for texture."
+                ],
+                "extra_thoughts": [
+                    "Swapping out a high-calorie pastry for a fruit-and-yogurt parfait cuts morning calories while adding nutrients.",
+                    "Greek yogurt provides extra protein to help you feel full longer, which is beneficial for weight loss."
+                ],
+                "order_of_operations": [
+                    "Wash and slice the berries (if needed).",
+                    "Spoon Greek yogurt into a bowl or portable jar.",
+                    "Layer the berries on top of the yogurt.",
+                    "Sprinkle with granola (for crunch and whole grains).",
+                    "Enjoy immediately, or cover the jar and take it with you for a quick breakfast on the go."
+                ]
+            },
+            "Lunch": {
+                "title": "Turkey & Avocado Whole Grain Wrap",
+                "prep_tips": [
+                    "Use deli turkey slices so you don’t need to cook any meat for this quick lunch.",
+                    "Mash the avocado and spread it like a creamy sauce – it keeps the wrap moist and adds healthy fats.",
+                    "Add a layer of lettuce or spinach in the wrap to provide extra crunch and fiber."
+                ],
+                "get_ahead": [
+                    "Assemble the wrap the night before, wrap it tightly, and refrigerate.",
+                    "Alternatively, pack the components separately (tortilla, turkey, veggies) and build the wrap at lunchtime to avoid sogginess."
+                ],
+                "quick_substitutions": [
+                    "If you’re out of tortillas, make it as a sandwich with whole-grain bread or as a lettuce wrap.",
+                    "No avocado? Spread a thin layer of hummus or a little light mayo/mustard instead."
+                ],
+                "extra_thoughts": [
+                    "Whole grains and lean protein make this wrap satisfying but not heavy, helping you avoid a midday energy crash."
+                ],
+                "order_of_operations": [
+                    "Warm the tortilla briefly to make it pliable.",
+                    "Spread mashed avocado on the tortilla.",
+                    "Layer turkey, tomato slices, and lettuce/spinach.",
+                    "Add mustard (or preferred condiment).",
+                    "Roll tightly, slice, and wrap for transport if needed."
+                ]
+            },
+            "Dinner": {
+                "title": "Chicken Fajita Bowl",
+                "prep_tips": [
+                    "Cut chicken and vegetables into similar-sized strips so they cook evenly.",
+                    "Use a pre-mixed fajita seasoning or your own blend of chili powder and cumin to save time.",
+                    "Cook a double batch to have lunch ready for tomorrow."
+                ],
+                "get_ahead": [
+                    "Marinate the chicken in lime, garlic, and spices in the morning or night before.",
+                    "Start the brown rice early (or reheat pre-cooked rice)."
+                ],
+                "quick_substitutions": [
+                    "No chicken? Substitute shrimp or thin strips of beef, adjusting cook time.",
+                    "Use cauliflower rice instead of brown rice for lower carbs."
+                ],
+                "extra_thoughts": [
+                    "Lean protein and fiber-rich veggies keep you full on fewer calories.",
+                    "Planning for leftovers saves time and reduces food waste."
+                ],
+                "order_of_operations": [
+                    "Marinate chicken (if time allows).",
+                    "Begin cooking brown rice.",
+                    "Sauté chicken strips; set aside.",
+                    "Sauté peppers and onions in the same pan.",
+                    "Return chicken to pan, season, and heat through.",
+                    "Assemble bowls with rice, chicken/veggies, salsa, and Greek yogurt."
+                ]
+            }
+        },
+
+        "Tuesday": {
+            "Breakfast": {
+                "title": "Peanut Butter Banana Overnight Oats",
+                "prep_tips": [
+                    "Use rolled oats – they hold texture better overnight than quick oats.",
+                    "Add banana slices in the morning to prevent browning (or mash some into the oats the night before).",
+                    "Prep multiple jars at once; they keep 2-3 days refrigerated."
+                ],
+                "get_ahead": [
+                    "Mix oats, milk, peanut butter, and seasonings in a jar the night before."
+                ],
+                "quick_substitutions": [
+                    "Prefer warm oats? Microwave briefly in the morning.",
+                    "Any nut butter works if peanut butter isn’t available."
+                ],
+                "extra_thoughts": [
+                    "Oats’ soluble fiber plus peanut-butter protein keep you full until lunch.",
+                    "Whole-grain, heart-healthy breakfast supports weight-loss goals."
+                ],
+                "order_of_operations": [
+                    "Combine ½ cup oats and ½ cup milk in a jar.",
+                    "Stir in 1-2 Tbsp peanut butter and a pinch of cinnamon.",
+                    "Cover and refrigerate overnight.",
+                    "Add sliced banana in the morning and stir (heat if desired)."
+                ]
+            },
+            "Lunch": {
+                "title": "Leftover Chicken Fajita Salad",
+                "prep_tips": [
+                    "Enjoy cold or warm – the salad tastes great either way.",
+                    "Use salsa and a squeeze of lime as a quick, low-cal dressing.",
+                    "Mix greens (spinach, romaine) for nutrients and crunch."
+                ],
+                "get_ahead": [
+                    "Use extra chicken and veggies from Monday.",
+                    "Layer salad ingredients in a container the night before (heavier items on bottom, greens on top)."
+                ],
+                "quick_substitutions": [
+                    "No leftover chicken? Use canned black beans or deli turkey.",
+                    "No salsa? Olive oil, vinegar, and a pinch of cumin make a quick dressing."
+                ],
+                "extra_thoughts": [
+                    "Turning leftovers into lunch saves time and reduces food waste.",
+                    "Lean protein plus veggies give a nutrient-dense, filling meal."
+                ],
+                "order_of_operations": [
+                    "Place greens in a bowl or container.",
+                    "Add leftover chicken, peppers, and onions.",
+                    "Top with extra veggies or beans if desired.",
+                    "Add shredded cheese (optional).",
+                    "Dress with salsa and lime when ready to eat."
+                ]
+            },
+            "Dinner": {
+                "title": "Shrimp & Broccoli Stir-Fry with Brown Rice",
+                "prep_tips": [
+                    "Buy shrimp already peeled/deveined.",
+                    "Pre-steam broccoli 1-2 min to speed stir-fry.",
+                    "Have all ingredients prepped; stir-fry cooks fast."
+                ],
+                "get_ahead": [
+                    "Reheat leftover brown rice from Monday, if available.",
+                    "Mix sauce ingredients before cooking."
+                ],
+                "quick_substitutions": [
+                    "Replace shrimp with chicken strips or firm tofu.",
+                    "Swap broccoli for bell peppers, snow peas, or zucchini."
+                ],
+                "extra_thoughts": [
+                    "Stir-frying uses minimal oil, retaining nutrients.",
+                    "Shrimp’s lean protein plus broccoli’s fiber aids weight management."
+                ],
+                "order_of_operations": [
+                    "Reheat or cook brown rice first.",
+                    "Heat oil; sauté garlic and ginger 30 sec.",
+                    "Add shrimp; cook until pink, then remove.",
+                    "Stir-fry broccoli 3-4 min (add splash of water if needed).",
+                    "Return shrimp; add soy-based sauce; toss 1 min.",
+                    "Serve over rice."
+                ]
+            }
+        },
+
+        "Wednesday": {
+            "Breakfast": {
+                "title": "Green Protein Smoothie",
+                "prep_tips": [
+                    "Freeze banana slices for a thick, cold smoothie.",
+                    "Add a handful of spinach – flavor is masked by fruit.",
+                    "Greek yogurt boosts protein if you don’t use protein powder."
+                ],
+                "get_ahead": [
+                    "Load blender jar with ingredients (minus liquid) the night before.",
+                    "Rinse blender immediately after use for easy cleanup."
+                ],
+                "quick_substitutions": [
+                    "Use frozen spinach if fresh isn’t available.",
+                    "For dairy-free, substitute almond milk and skip yogurt or use plant-based protein powder."
+                ],
+                "extra_thoughts": [
+                    "Low-calorie, nutrient-dense start to the day.",
+                    "Great way to sneak a veggie serving into breakfast."
+                ],
+                "order_of_operations": [
+                    "Add frozen banana and spinach to blender.",
+                    "Add ½ cup Greek yogurt and ½ cup milk.",
+                    "Blend until smooth; adjust thickness as needed.",
+                    "Drink immediately."
+                ]
+            },
+            "Lunch": {
+                "title": "Tuna Salad Sandwich on Whole Grain",
+                "prep_tips": [
+                    "Drain tuna canned in water to keep sandwich from getting soggy.",
+                    "Replace mayo with Greek yogurt to cut fat and add protein.",
+                    "Add chopped onion, celery, or pickles for crunch."
+                ],
+                "get_ahead": [
+                    "Make tuna salad the night before; refrigerate.",
+                    "Prepare multiple servings to use later in the week."
+                ],
+                "quick_substitutions": [
+                    "Swap tuna with canned chicken or mashed chickpeas.",
+                    "Use lettuce leaves instead of bread for a low-carb wrap."
+                ],
+                "extra_thoughts": [
+                    "Greek-yogurt swap significantly reduces calories.",
+                    "Whole-grain bread’s fiber helps keep you full."
+                ],
+                "order_of_operations": [
+                    "Mix drained tuna with Greek yogurt and mustard.",
+                    "Add chopped veggies; season.",
+                    "Spread on whole-grain bread; add lettuce/tomato.",
+                    "Assemble sandwich and serve."
+                ]
+            },
+            "Dinner": {
+                "title": "Turkey & Bean Chili",
+                "prep_tips": [
+                    "Use canned beans and tomatoes for a quick recipe.",
+                    "Choose lean ground turkey to keep fat low.",
+                    "Double the batch – chili freezes well."
+                ],
+                "get_ahead": [
+                    "Chop onion and pepper in advance.",
+                    "Use a slow cooker or Instant Pot for hands-off cooking."
+                ],
+                "quick_substitutions": [
+                    "Swap in lean ground beef or chicken.",
+                    "Use any canned beans (kidney, pinto) if black beans aren’t available."
+                ],
+                "extra_thoughts": [
+                    "Protein and fiber make this chili hearty yet weight-loss friendly.",
+                    "Instant Pot cuts total time dramatically."
+                ],
+                "order_of_operations": [
+                    "Sauté onion and bell pepper in oil.",
+                    "Add ground turkey; cook until no longer pink.",
+                    "Stir in garlic and spices; toast briefly.",
+                    "Add canned tomatoes, beans, and ½ cup water.",
+                    "Simmer 20 min (or pressure-cook 10 min).",
+                    "Adjust seasoning; serve with Greek yogurt garnish."
+                ]
+            }
+        },
+
+        "Thursday": {
+            "Breakfast": {
+                "title": "Avocado Toast with Egg",
+                "prep_tips": [
+                    "Use whole-grain bread for extra fiber.",
+                    "Mash avocado with lemon juice to prevent browning.",
+                    "Cook egg to preference (fried, poached, or scrambled)."
+                ],
+                "get_ahead": [
+                    "Boil eggs early in the week for faster mornings.",
+                    "Peel boiled egg the night before if using that option."
+                ],
+                "quick_substitutions": [
+                    "Spread hummus instead of avocado if unavailable.",
+                    "Serve egg and avocado over greens if skipping bread."
+                ],
+                "extra_thoughts": [
+                    "Avocado’s healthy fats keep you satiated; portion control matters.",
+                    "Whole-grain bread plus egg protein wards off mid-morning hunger."
+                ],
+                "order_of_operations": [
+                    "Toast bread.",
+                    "Mash avocado, season, and spread on toast.",
+                    "Add cooked egg on top.",
+                    "Finish with chili flakes; serve."
+                ]
+            },
+            "Lunch": {
+                "title": "Leftover Turkey Chili",
+                "prep_tips": [
+                    "Reheat chili until piping hot; add water if too thick.",
+                    "Pack in a microwave-safe container if eating at work."
+                ],
+                "get_ahead": [
+                    "Portion chili into single servings right after cooking Wednesday night.",
+                    "Freeze any extra portions you won’t eat within 3-4 days."
+                ],
+                "quick_substitutions": [
+                    "No leftovers? Heat a can of low-sodium soup.",
+                    "Serve chili over a baked potato or with whole-grain crackers for variety."
+                ],
+                "extra_thoughts": [
+                    "Chili tastes better after flavors meld overnight.",
+                    "Planned leftovers reduce waste and save prep time."
+                ],
+                "order_of_operations": [
+                    "Retrieve one chili portion.",
+                    "Reheat (microwave 2-3 min, stirring once, or stovetop).",
+                    "Prepare toppings (Greek yogurt, cilantro, cheddar).",
+                    "Serve hot and enjoy."
+                ]
+            },
+            "Dinner": {
+                "title": "Black Bean & Corn Stuffed Sweet Potato",
+                "prep_tips": [
+                    "Microwave sweet potato 5-8 min for quick cooking.",
+                    "Rinse and drain black beans to reduce sodium.",
+                    "Thaw frozen corn quickly in microwave or heat with beans."
+                ],
+                "get_ahead": [
+                    "Drain beans in the morning.",
+                    "Pre-cook sweet potato earlier; reheat and stuff at dinnertime."
+                ],
+                "quick_substitutions": [
+                    "Stuff mixture into a baked russet potato if preferred.",
+                    "Use pinto, kidney beans, or chickpeas instead of black beans."
+                ],
+                "extra_thoughts": [
+                    "Meatless meal packed with fiber and plant protein – great for weight loss.",
+                    "Extra filling can be used in Friday’s lunch salad."
+                ],
+                "order_of_operations": [
+                    "Pierce and microwave sweet potato until tender.",
+                    "Warm beans, corn, and spices in a pan.",
+                    "Split potato; fluff flesh with fork.",
+                    "Fill with bean-corn mixture; top with cheese and Greek yogurt.",
+                    "Garnish with cilantro; serve."
+                ]
+            }
+        },
+
+        "Friday": {
+            "Breakfast": {
+                "title": "Spinach & Tomato Scrambled Eggs with Toast",
+                "prep_tips": [
+                    "Beat eggs in a bowl first for even scrambling.",
+                    "Use a non-stick pan and minimal oil.",
+                    "Tear spinach so it wilts quickly."
+                ],
+                "get_ahead": [
+                    "Chop tomatoes the night before.",
+                    "Scramble eggs ahead and reheat in microwave if mornings are hectic."
+                ],
+                "quick_substitutions": [
+                    "Swap in any leftover veggies.",
+                    "Microwave eggs in 30-sec bursts if truly rushed."
+                ],
+                "extra_thoughts": [
+                    "Protein plus fiber breakfast helps control appetite.",
+                    "Quick enough for weekdays yet feels like a weekend meal."
+                ],
+                "order_of_operations": [
+                    "Beat 2 eggs with salt and pepper.",
+                    "Sauté spinach and cherry tomatoes 1 min.",
+                    "Add eggs; scramble until set.",
+                    "Toast whole-grain bread.",
+                    "Serve eggs with toast."
+                ]
+            },
+            "Lunch": {
+                "title": "Black Bean & Corn Salad",
+                "prep_tips": [
+                    "Base comes from Thursday’s leftover bean-corn mix.",
+                    "Cut added veggies to similar size for uniform bites.",
+                    "Serve on lettuce if you’d like extra greens."
+                ],
+                "get_ahead": [
+                    "Mix leftovers with fresh veggies in the morning.",
+                    "Layer in a jar (heavy ingredients bottom) for portable salad."
+                ],
+                "quick_substitutions": [
+                    "Add any spare veggies or leftover protein.",
+                    "Top with avocado or cheese for richness."
+                ],
+                "extra_thoughts": [
+                    "High-fiber, high-protein lunches steady afternoon energy.",
+                    "Reusing components minimizes waste and prep time."
+                ],
+                "order_of_operations": [
+                    "Combine leftover beans/corn with chopped fresh veggies.",
+                    "Add lime juice, olive oil, cilantro, salt, and pepper.",
+                    "Serve as is or over greens; garnish as desired."
+                ]
+            },
+            "Dinner": {
+                "title": "Herb-Crusted Baked Fish with Broccoli & Tomatoes",
+                "prep_tips": [
+                    "Line baking sheet for easy cleanup.",
+                    "Pat fish dry before seasoning to promote roasting, not steaming.",
+                    "Cut broccoli into small florets to finish with fish."
+                ],
+                "get_ahead": [
+                    "Season fish and chop veggies earlier in the day.",
+                    "Preheat oven as soon as you get home."
+                ],
+                "quick_substitutions": [
+                    "Use any white fish or even chicken breast (bake longer to 165 °F).",
+                    "Swap veggies for cauliflower, zucchini, or green beans."
+                ],
+                "extra_thoughts": [
+                    "Baking uses minimal oil, making the meal light but flavorful.",
+                    "Fish provides lean protein and omega-3s."
+                ],
+                "order_of_operations": [
+                    "Preheat oven to 400 °F.",
+                    "Toss broccoli and tomatoes with oil, salt, pepper on sheet.",
+                    "Place fish in center; brush with oil and herbs.",
+                    "Bake 12-15 min until fish flakes and broccoli is tender.",
+                    "Squeeze lemon over and serve."
+                ]
+            }
+        },
+
+        "Saturday": {
+            "Breakfast": {
+                "title": "Banana Oat Pancakes",
+                "prep_tips": [
+                    "Blend batter to pulverize oats into oat flour.",
+                    "Let batter sit 5 min to thicken.",
+                    "Use non-stick pan so little oil is needed."
+                ],
+                "get_ahead": [
+                    "Blend batter the night before; thin with milk in morning if thick.",
+                    "Make double batch and freeze extra pancakes."
+                ],
+                "quick_substitutions": [
+                    "Replace banana with ¼ cup unsweetened applesauce.",
+                    "Without a blender, use quick oats and mash banana well."
+                ],
+                "extra_thoughts": [
+                    "Oats and fruit boost fiber and nutrients over white-flour pancakes.",
+                    "Top with berries or peanut butter instead of syrup to keep sugar low."
+                ],
+                "order_of_operations": [
+                    "Blend oats, banana, egg, milk, baking powder, cinnamon.",
+                    "Cook batter in lightly oiled skillet until bubbles form; flip.",
+                    "Serve warm with healthy toppings."
+                ]
+            },
+            "Lunch": {
+                "title": "Turkey & Veggie Salad",
+                "prep_tips": [
+                    "Use any veggies that need to be used up.",
+                    "Slice deli turkey into bite-size pieces.",
+                    "Simple vinaigrette (oil, vinegar, mustard) elevates flavor."
+                ],
+                "get_ahead": [
+                    "Boil an egg in the morning for added protein.",
+                    "Chop veggies and make dressing earlier; toss at lunch."
+                ],
+                "quick_substitutions": [
+                    "Swap turkey for leftover grilled chicken or chickpeas.",
+                    "Use thawed frozen or leftover roasted veggies if low on fresh."
+                ],
+                "extra_thoughts": [
+                    "End-of-week salad clears the fridge and cuts waste.",
+                    "High-veggie, lean-protein meals are nutrient-dense but low-calorie."
+                ],
+                "order_of_operations": [
+                    "Add lettuces to bowl.",
+                    "Top with turkey pieces and chopped veggies.",
+                    "Add sliced hard-boiled egg and cheese (optional).",
+                    "Dress with whisked oil, vinegar, mustard, salt, pepper.",
+                    "Toss and serve."
+                ]
+            },
+            "Dinner": {
+                "title": "Slow Cooker Chicken Cacciatore",
+                "prep_tips": [
+                    "Dump-and-go slow cooker meal – minimal effort.",
+                    "Use boneless chicken thighs for moist results (or breasts for leaner).",
+                    "Optional sear of chicken/veggies deepens flavor."
+                ],
+                "get_ahead": [
+                    "Load slow cooker in the morning; dinner’s done by evening.",
+                    "Chop vegetables the night before to save time."
+                ],
+                "quick_substitutions": [
+                    "Use Instant Pot stew or stove-top simmer if no slow cooker.",
+                    "Add or swap veggies (carrots, celery) as desired."
+                ],
+                "extra_thoughts": [
+                    "Slow cooker means you come home to a ready, healthy meal.",
+                    "Veggie-packed, lean-protein dish is hearty yet low-calorie; leftovers reheat well."
+                ],
+                "order_of_operations": [
+                    "Place chicken in slow cooker.",
+                    "Add sliced pepper, onion, mushrooms, garlic.",
+                    "Pour in canned diced tomatoes; season with Italian herbs, salt, pepper.",
+                    "Cook LOW 6-7 h (or HIGH 3-4 h) until chicken is tender.",
+                    "Serve over whole-grain pasta or with crusty bread; store leftovers."
+                ]
+            }
+        },
+
+        "Sunday": {
+            "Breakfast": {
+                "title": "Breakfast Burrito with Eggs & Salsa",
+                "prep_tips": [
+                    "Warm tortilla for easier rolling.",
+                    "Scramble eggs softly; they’ll reheat if you prep ahead.",
+                    "Use leftover veggies or beans to clear out fridge."
+                ],
+                "get_ahead": [
+                    "Cook filling and roll burrito the night before; reheat in foil.",
+                    "Foil-wrap and refrigerate assembled burrito; warm in oven or microwave."
+                ],
+                "quick_substitutions": [
+                    "Make as burrito bowl or serve with toast if no tortilla.",
+                    "Swap beans with pinto/refried/chickpeas or omit."
+                ],
+                "extra_thoughts": [
+                    "Protein-rich breakfast keeps you satisfied.",
+                    "Adding beans/veggies boosts fiber and flavor."
+                ],
+                "order_of_operations": [
+                    "Scramble 2 eggs with salt and pepper.",
+                    "Warm black beans (optional).",
+                    "Warm tortilla; place eggs, beans, cheese, salsa.",
+                    "Roll burrito; eat or wrap for later."
+                ]
+            },
+            "Lunch": {
+                "title": "Leftover Chicken Cacciatore",
+                "prep_tips": [
+                    "Reheat gently; add water if sauce thickened.",
+                    "Serve with leftover rice, pasta, or bread."
+                ],
+                "get_ahead": [
+                    "Store leftovers properly in airtight container.",
+                    "Freeze portions you won’t eat within a few days."
+                ],
+                "quick_substitutions": [
+                    "Shred chicken and make a sandwich or wrap if desired."
+                ],
+                "extra_thoughts": [
+                    "Easy leftover lunch frees up Sunday time.",
+                    "Waste-free habit benefits wallet and environment."
+                ],
+                "order_of_operations": [
+                    "Retrieve leftover cacciatore.",
+                    "Reheat (stovetop or microwave).",
+                    "Prepare side (bread, rice) if desired.",
+                    "Serve hot and enjoy."
+                ]
+            },
+            "Dinner": {
+                "title": "Vegetable Frittata",
+                "prep_tips": [
+                    "Use oven-safe skillet to move from stove to oven.",
+                    "Whisk eggs well for a fluffy texture.",
+                    "Incorporate any veggies that need using up."
+                ],
+                "get_ahead": [
+                    "Chop or sauté veggies earlier in the day.",
+                    "Frittata can be made ahead and eaten cold or reheated."
+                ],
+                "quick_substitutions": [
+                    "Swap in any veggies or cheeses you have.",
+                    "Cook as scrambled eggs or omelette if not baking."
+                ],
+                "extra_thoughts": [
+                    "Great way to minimize waste by using leftover ingredients.",
+                    "Light dinner with protein and veggies supports weight-loss plan."
+                ],
+                "order_of_operations": [
+                    "Preheat oven to 350 °F.",
+                    "Sauté veggies in oiled oven-safe skillet 3-4 min.",
+                    "Beat 4 eggs with milk, salt, pepper; pour over veggies.",
+                    "Cook 2-3 min until edges set.",
+                    "Sprinkle cheese; transfer to oven 8-10 min until set.",
+                    "Slice and serve; store leftovers."
+                ]
+            }
+        }
+    }
+}

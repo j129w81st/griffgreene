@@ -1,0 +1,3 @@
+__pycache__/
+*.env
+mysite/ # the rendered output – no need in repo
