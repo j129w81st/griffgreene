@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shopping List</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-900">
+  <header class="bg-white shadow-md p-5 flex justify-between items-center">
+    <h1 class="text-2xl font-bold">Shopping List</h1>
+    <a href="index.html" class="text-blue-600 hover:underline">Back to Menu</a>
+  </header>
+
+  <main class="max-w-4xl mx-auto mt-10">
+    <h2 class="text-xl font-semibold text-center mb-6">Your Ingredients</h2>
+    
+    <div class="mb-4">
+      <button class="w-full text-left font-semibold bg-gray-200 p-3 rounded-md"
+              onclick="toggleCategory('Produce')">
+        Produce ▼
+      </button>
+      <div id="Produce" class="hidden mt-2">
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Spinach: 1 bag (5 oz fresh)</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Romaine lettuce: 1 head</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Bell peppers: 4 medium (mixed colors)</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Onions: 3 medium</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Garlic: 1 bulb</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Sweet potatoes: 2 medium</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Broccoli: 1 head</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Cherry tomatoes: 1 pint</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Avocados: 2 medium</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Bananas: 3</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Berries (your choice): ~1 pint</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Limes: 2</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Lemon: 1</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Mushrooms: 8 oz</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Fresh cilantro: 1 small bunch</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Fresh ginger: 1 knob (~2 inches)</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Frozen corn kernels: 1 bag (10 oz)</p>
+        </div>
+        
+      </div>
+    </div>
+    
+    <div class="mb-4">
+      <button class="w-full text-left font-semibold bg-gray-200 p-3 rounded-md"
+              onclick="toggleCategory('Dairy')">
+        Dairy ▼
+      </button>
+      <div id="Dairy" class="hidden mt-2">
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Greek yogurt (plain, low-fat): 1 tub (16 oz)</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Milk (or unsweetened almond milk): 1 quart</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Eggs: 1 dozen</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Cheddar cheese, shredded (reduced-fat if possible): 1 package (8 oz)</p>
+        </div>
+        
+      </div>
+    </div>
+    
+    <div class="mb-4">
+      <button class="w-full text-left font-semibold bg-gray-200 p-3 rounded-md"
+              onclick="toggleCategory('Protein')">
+        Protein ▼
+      </button>
+      <div id="Protein" class="hidden mt-2">
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Chicken breast: ~1.5 lb (about 3 pieces)</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Lean ground turkey: 1 lb</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Shrimp, peeled & deveined: ~0.5 lb</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">White fish fillets (cod, tilapia, etc.): ~0.5 lb</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Deli turkey (sliced, lean): ~6 oz</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Canned tuna (in water): 1 can (5 oz)</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Black beans, canned: 2 cans (15 oz each)</p>
+        </div>
+        
+      </div>
+    </div>
+    
+    <div class="mb-4">
+      <button class="w-full text-left font-semibold bg-gray-200 p-3 rounded-md"
+              onclick="toggleCategory('Grains')">
+        Grains ▼
+      </button>
+      <div id="Grains" class="hidden mt-2">
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Whole wheat tortillas: 1 package (8-10 count)</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Whole grain bread: 1 loaf</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Brown rice (uncooked): ~1 lb (about 2 cups dry)</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Rolled oats: 1 container (approx. 18 oz)</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Granola (low-sugar): ~1 cup (for topping parfait)</p>
+        </div>
+        
+      </div>
+    </div>
+    
+    <div class="mb-4">
+      <button class="w-full text-left font-semibold bg-gray-200 p-3 rounded-md"
+              onclick="toggleCategory('Spices/Herbs')">
+        Spices/Herbs ▼
+      </button>
+      <div id="Spices/Herbs" class="hidden mt-2">
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Chili powder: 1 jar</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Ground cumin: 1 jar</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Italian seasoning (herb blend): 1 jar</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Ground cinnamon: 1 jar</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Salt & black pepper: to taste (if not on hand)</p>
+        </div>
+        
+      </div>
+    </div>
+    
+    <div class="mb-4">
+      <button class="w-full text-left font-semibold bg-gray-200 p-3 rounded-md"
+              onclick="toggleCategory('Other')">
+        Other ▼
+      </button>
+      <div id="Other" class="hidden mt-2">
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Olive oil: 1 bottle</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Low-sodium soy sauce: 1 small bottle</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Vinegar (balsamic or apple cider): 1 bottle</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Dijon or yellow mustard: 1 small jar</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Baking powder: 1 small can</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Peanut butter: 1 jar</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Salsa (jarred, low-sugar): 1 jar</p>
+        </div>
+        
+        <div class="bg-white rounded-lg shadow-md p-3 text-center cursor-pointer transition hover:bg-gray-200" 
+             onclick="toggleItem(this)">
+          <p class="text-lg font-medium">Diced tomatoes, canned: 2 cans (14-15 oz each)</p>
+        </div>
+        
+      </div>
+    </div>
+    
+  </main>
+
+  <script>
+    function toggleCategory(category) {
+      document.getElementById(category).classList.toggle("hidden");
+    }
+    function toggleItem(element) {
+      element.classList.toggle("bg-green-300");
+      element.classList.toggle("line-through");
+    }
+  </script>
+</body>
+</html>
